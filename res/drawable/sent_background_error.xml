@@ -19,6 +19,6 @@ limitations under the License.
 
     <item android:state_pressed="true" android:drawable="@drawable/msg_bubble_selected_right"/>
     <item android:state_selected="true" android:drawable="@drawable/msg_bubble_selected_right"/>
-    <item android:drawable="@drawable/msg_bubble_right"/>
+    <item android:drawable="@drawable/error_msg_bubble_right"/>
 
 </selector>
