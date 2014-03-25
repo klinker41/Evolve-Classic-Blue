@@ -48,6 +48,12 @@ limitations under the License.
     <!-- the background color for the conversations, this is what shows behind the messages -->
     <color name="backgroundColor">#dddddd</color>
 
+    <!-- the color of the dividers in the conversation list -->
+    <!--<color name="conversationDividerColor">#000000</color>-->
+
+    <!-- the color of the message entry hint, ie the text that says "type message" -->
+    <color name="messageHintColor">#88020202</color>
+
     <!-- include any other colors you may want to use in your layout below -->
 
 </resources>
