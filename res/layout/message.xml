@@ -64,13 +64,11 @@
                 <TextView
                         android:textSize="12sp"
                         android:textColor="@color/dateColorReceived"
-                        android:ellipsize="marquee"
                         android:gravity="left"
                         android:layout_gravity="left"
                         android:id="@+id/name"
                         android:paddingLeft="5dp"
                         android:paddingBottom="3dp"
-                        android:fadingEdge="horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="-3dp"
@@ -79,7 +77,6 @@
                 <TextView
                         android:textSize="14sp"
                         android:textColor="@color/textColorReceived"
-                        android:ellipsize="marquee"
                         android:id="@+id/body"
                         android:gravity="center_vertical"
                         android:layout_gravity="center_vertical"
